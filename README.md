@@ -2,7 +2,7 @@ OurMeeting
 ======
 
 [![Build Status](https://travis-ci.org/HRR1-ddgz/webrtc.svg?branch=master)](https://travis-ci.org/HRR1-ddgz/webrtc) [![Coverage Status](https://img.shields.io/coveralls/HRR1-ddgz/webrtc.svg)](https://coveralls.io/r/HRR1-ddgz/webrtc)
-
+[Check it out!](http://ourmeeting.herokuapp.com/)
 =======
 
 ## Team
